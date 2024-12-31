@@ -1,1 +1,1 @@
-requests ~= 2.23.0
+aoihttp==3.11.10
